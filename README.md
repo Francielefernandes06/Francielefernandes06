@@ -30,7 +30,9 @@
   <a href = "mailto:francielefernades126@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23d3403a?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/franciele-fernandes-92556b1a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://wa.me/5584994285704?text=Olá,%20Franciele%20Fernandes.%20Tudo%20bem?" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325c862?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/Francielefernandes06/Francielefernandes06/blob/output/github-contribution-grid-snake.svg) </div>
+   
+  ![Snake animation](https://github.com/Francielefernandes06/Francielefernandes06/blob/output/github-contribution-grid-snake.svg)
+
+</div>
   
   
