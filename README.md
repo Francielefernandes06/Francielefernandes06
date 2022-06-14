@@ -24,7 +24,7 @@
 ##
 
 <div> 
-  <a href="https://instagram.com/franciele.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23b6008b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/franciele_fernandes06" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23b6008b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/franciele_fernandes06" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <!--<a href="https://discord.gg/#8630" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>--> 
   <a href = "mailto:francielefernades126@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23d3403a?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
