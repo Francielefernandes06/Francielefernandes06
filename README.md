@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou Franciele Fernandes
 - 👩🏽‍💻 Front end dev
-- 📚 Estou estudando HTML, CSS e JavaScript.
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas- IFRN
 - 📧 Email para contato: francielefernandes126@gmail.com
 - 📫 Pronomes: ela/dela
 - ☕ Viciada em café
@@ -21,6 +21,7 @@
   <img align="center" alt="Fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" alt="Fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-plain.svg">
 </div>
 
 ##
