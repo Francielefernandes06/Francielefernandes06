@@ -1,6 +1,9 @@
 <h1 align="center">
     OLÁ, ME CHAMO FRANCIELE FERNANDES
-</h1> <br>
+</h1>
+
+<img align="right" src="https://komarev.com/ghpvc/?username=Francielefernandes06&style=flat-square&color=fc015c" alt="Visualizações neste perfil" />
+<br>
 <h2 align="center">
     <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 </h2> <br>
