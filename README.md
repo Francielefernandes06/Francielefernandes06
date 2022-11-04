@@ -8,7 +8,7 @@
     <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 </h2> <br>
 
-- 👩🏽‍💻 Front end dev
+- 👩🏽‍💻 Desenvolvedora de Sistemas
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas- IFRN
 - 📧 Email para contato: francielefernandes126@gmail.com
 - 📫 Pronomes: ela/dela
