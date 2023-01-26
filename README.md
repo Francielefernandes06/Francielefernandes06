@@ -24,6 +24,8 @@
 </div>
 
 ##
+    
+  ### Conhecimentos 
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Fran-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -43,13 +45,20 @@
   <img align="center" alt="Fran-VS-Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Fran-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="Fran-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
-  
           
-          
-</div> <br>
+</div>
+    
+### Estudando
+       
+   <div align="center">
+ 
+  <img align="center" alt="Fran-ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+   <img align="center" alt="Fran-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    </div>  
+    
+   <hr>
 
-##
-
+   
 <div> 
  <a href="https://instagram.com/franciele_fernandes06" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23b6008b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.twitch.tv/franciele_fernandes06" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
