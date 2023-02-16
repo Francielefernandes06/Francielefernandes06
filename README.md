@@ -1,12 +1,17 @@
-<h1 align="center">
-    OLÁ, ME CHAMO FRANCIELE FERNANDES
-</h1>
+<div width=100% align=center>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=25&duration=3000&pause=1000&color=0093FF&center=true&width=435&lines=%3CHello+World%2F%3E;~+Meu+nome+%C3%A9+Franciele+Fernandes+~;-+Tenho+23+anos+-;%7BSou+apaixonada+pelo+Front-End%7D;%3CBem+vindo+(a)+ao+meu+perfil%2F%3E)](https://git.io/typing-svg)
+
+</div>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Francielefernandes06&style=flat-square&color=fc015c" alt="Visualizações neste perfil" />
 <br>
 <h2 align="center">
     <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 </h2> <br>
+
+<h2 align="center">~ 💙 Sobre mim ~</h2>
+<br>
 
 - 👩🏽‍💻 Desenvolvedora de Sistemas
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas- IFRN
@@ -15,17 +20,32 @@
 - ☕ Viciada em café
 <br>
 
+
 ##
 
 <div align="center">
   <a href="https://github.com/Francielefernandes06">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Francielefernandes06&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francielefernandes06&layout=compact&langs_count=7&theme=radical"/>
+      
 </div>
-
-##
     
-  ### Conhecimentos 
+    
+
+
+   
+
+
+<h3 align="center">~ 👨‍💻 Estudando Atualmente ~</h3>
+
+<div align="center">
+    <img  align="center" alt="Fran-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img  align="center" alt="Fran-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    
+</div>
+ <br/>
+    
+<h3 align="center">~ ⭐ Tecnologias ~</h3>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Fran-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -38,25 +58,25 @@
   <img align="center" alt="Fran-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Fran-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <img  align="center" alt="Fran-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Fran-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  
+          
+<div/>
+    <br/>
+
+<h3 align="center">~ 🛠 Ferramentas, Ambientes e Desenvolvimento ~</h3>
+
+<div align="center">
+        
+ <img align="center" alt="Fran-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Fran-Git-Hub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 <!--   <img align="center" alt="Fran-Gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"> -->
   <img align="center" alt="Fran-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Fran-VS-Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Fran-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="Fran-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
-          
 </div>
     
-### Estudando
-       
-   <div align="center">
- 
-  <img align="center" alt="Fran-ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-   <img align="center" alt="Fran-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    </div>  
-    
-   <hr>
+ <hr/>
 
    
 <div> 
