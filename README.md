@@ -16,7 +16,6 @@
 - 👩🏽‍💻 Desenvolvedora de Sistemas
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas- IFRN
 - 📧 Email para contato: francielefernandes126@gmail.com
-- 📫 Pronomes: ela/dela
 - ☕ Viciada em café
 <br>
 
