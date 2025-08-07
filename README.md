@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=25&duration=3000&pause=1000&color=0093FF&center=true&width=600&lines=%3CHello+World%2F%3E;~+Meu+nome+%C3%A9+Franciele+Fernandes+~;-+Tenho+26+anos+-;%7BSou+apaixonada+por+Tecnologia%7D;%3CBem-vindo+(a)+ao+meu+perfil%2F%3E)](https://git.io/typing-svg)
 
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 </div>
+<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Francielefernandes06&style=flat-square&color=fc015c" alt="Visualizações no perfil">
@@ -14,7 +16,10 @@
 
 - 👩🏽‍💻 Desenvolvedora Full Stack com foco em Backend
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas - IFRN
-- 📧 Contato: francielefernandes126@gmail.com
+- 🧠 Apaixonada por resolver problemas com eficiência
+- 🧩 Gosto de entender o negócio e propor soluções técnicas
+- 🤝 Valorizo trabalho em equipe, colaboração e boas práticas
+- 👩‍💻 Sempre buscando evoluir como profissional e pessoa
 - ☕ Amante de café e tecnologia
 
 ---
@@ -28,43 +33,56 @@
 
 ---
 
-## 💻 Tecnologias
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="Ionic" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg" alt="Symfony" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="30"/>
-</div>
+## 🚀 Tecnologias & Ferramentas
+
+### 🔙 Backend
+
+| Linguagem/Framework | Nível de Experiência | Detalhes |
+|---------------------|----------------------|----------|
+| PHP                 | ⭐⭐⭐⭐⭐               | Laravel, Symfony |
+| Laravel             | ⭐⭐⭐⭐⭐               | Jobs, Events, Queues, Auth, API Resources |
+| Symfony             | ⭐⭐⭐⭐                | Services, Security, JWT, Doctrine ORM |
+| MySQL/PostgreSQL    | ⭐⭐⭐⭐⭐               | Migrations, otimização, modelagem |
+| Redis               | ⭐⭐⭐⭐                | Cache e filas |
+| APIs RESTful        | ⭐⭐⭐⭐⭐               | Criação, consumo, autenticação com JWT |
+| JWT                 | ⭐⭐⭐⭐                | Autenticação segura, expiração e renovação |
+| Docker              | ⭐⭐⭐⭐                | Ambientes isolados para desenvolvimento |
+
 
 ---
 
-## 🛠 Ferramentas e ambientes
+### 🌐 Frontend
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" alt="Insomnia" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" height="30"/>
-</div>
+| Tecnologia        | Nível de Experiência | Detalhes |
+|------------------|----------------------|----------|
+| JavaScript (ES6+) | ⭐⭐⭐⭐                | Consumo de APIs, manipulação de DOM |
+| Angular           | ⭐⭐⭐⭐                | Formulários reativos, interceptadores |
+| React.js          | ⭐⭐⭐                 | Hooks, Context API, integração com APIs |
+| HTML5/CSS3        | ⭐⭐⭐⭐                | Layouts responsivos e acessíveis |
+| Bootstrap/Tailwind| ⭐⭐⭐⭐                | Estilização rápida e eficiente |
+
+---
+
+### 📱 Mobile
+
+| Tecnologia | Nível de Experiência | Detalhes |
+|------------|----------------------|----------|
+| Ionic + Angular | ⭐⭐⭐⭐            | Aplicações híbridas, integração com APIs |
+| PWA             | ⭐⭐⭐             | Web apps instaláveis, offline-ready |
+
+---
+
+### 🛠️ Outros Conhecimentos
+
+| Ferramenta / Prática              | Experiência |
+|-----------------------------------|-------------|
+| Git / Git Flow                    | ⭐⭐⭐⭐⭐       |
+| Swagger / Postman / Insomnia      | ⭐⭐⭐⭐⭐       |
+| Metodologias Ágeis (Scrum)        | ⭐⭐⭐⭐    |
+| CI/CD                             | ⭐⭐⭐         |
+| Segurança Web (XSS, CSRF, SQL Injection) | ⭐⭐⭐⭐ |
+| Testes (PHPUnit, Jasmine, Karma) | ⭐⭐⭐ |
 
 ---
 
