@@ -9,6 +9,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Francielefernandes06&style=flat-square&color=fc015c" alt="Visualizações no perfil">
 </p>
+<p align="center">
+  <img src="https://wakatime.com/badge/user/bd935579-4125-426e-8645-9efb9f7467a5.svg" alt="Wakatime">
+</p>
+
 
 ---
 
