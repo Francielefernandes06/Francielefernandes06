@@ -1,92 +1,30 @@
-<div align="center">
+<h1 align="center">Olá, eu sou a Franciele 👋</h1>
+<h3 align="center">Desenvolvedora Full Stack | PHP (Laravel & Symfony) | React | Angular</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=25&duration=3000&pause=1000&color=0093FF&center=true&width=600&lines=%3CHello+World%2F%3E;~+Meu+nome+%C3%A9+Franciele+Fernandes+~;-+Tenho+26+anos+-;%7BSou+apaixonada+por+Tecnologia%7D;%3CBem-vindo+(a)+ao+meu+perfil%2F%3E)](https://git.io/typing-svg)
-
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
-</div>
-<br/>
-
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=Francielefernandes06&style=flat-square&color=fc015c" alt="Visualizações no perfil">
 </p>
-<p align="center">
+<p align="right">
   <img src="https://wakatime.com/badge/user/bd935579-4125-426e-8645-9efb9f7467a5.svg" alt="Wakatime">
 </p>
 
+### 💙 Sobre mim
+
+Desenvolvedora Full Stack com foco em **Backend PHP**, construindo APIs robustas, seguras e escaláveis. Atuo em todo o ciclo de desenvolvimento — do design da API à interface que consome ela.
+
+- 🔭 Atualmente aprofundando em **Clean Architecture** e otimização de APIs Laravel/Symfony
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas — IFRN
+- 🧩 Gosto de traduzir problema de negócio em solução técnica simples e sustentável
+- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/desenvolvedora-franciele-fernandes/) · [email](mailto:francielefernandes126@gmail.com)
 
 ---
 
-<h2 align="center">💙 Sobre mim</h2>
+### 🛠️ Stack principal
 
-- 👩🏽‍💻 Desenvolvedora Full Stack com foco em Backend
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas - IFRN
-- 🧠 Apaixonada por resolver problemas com eficiência
-- 🧩 Gosto de entender o negócio e propor soluções técnicas
-- 🤝 Valorizo trabalho em equipe, colaboração e boas práticas
-- 👩‍💻 Sempre buscando evoluir como profissional e pessoa
-- ☕ Amante de café e tecnologia
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Francielefernandes06&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francielefernandes06&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
----
-
-
-## 🚀 Tecnologias & Ferramentas
-
-### 🔙 Backend
-
-| Linguagem/Framework | Nível de Experiência | Detalhes |
-|---------------------|----------------------|----------|
-| PHP                 | ⭐⭐⭐⭐⭐               | Laravel, Symfony |
-| Laravel             | ⭐⭐⭐⭐⭐               | Jobs, Events, Queues, Auth, API Resources |
-| Symfony             | ⭐⭐⭐⭐                | Services, Security, JWT, Doctrine ORM |
-| MySQL/PostgreSQL    | ⭐⭐⭐⭐⭐               | Migrations, otimização, modelagem |
-| Redis               | ⭐⭐⭐⭐                | Cache e filas |
-| APIs RESTful        | ⭐⭐⭐⭐⭐               | Criação, consumo, autenticação com JWT |
-| JWT                 | ⭐⭐⭐⭐                | Autenticação segura, expiração e renovação |
-| Docker              | ⭐⭐⭐⭐                | Ambientes isolados para desenvolvimento |
-
-
----
-
-### 🌐 Frontend
-
-| Tecnologia        | Nível de Experiência | Detalhes |
-|------------------|----------------------|----------|
-| JavaScript (ES6+) | ⭐⭐⭐⭐                | Consumo de APIs, manipulação de DOM |
-| Angular           | ⭐⭐⭐⭐                | Formulários reativos, interceptadores |
-| React.js          | ⭐⭐⭐                 | Hooks, Context API, integração com APIs |
-| HTML5/CSS3        | ⭐⭐⭐⭐                | Layouts responsivos e acessíveis |
-| Bootstrap/Tailwind| ⭐⭐⭐⭐                | Estilização rápida e eficiente |
-
----
-
-### 📱 Mobile
-
-| Tecnologia | Nível de Experiência | Detalhes |
-|------------|----------------------|----------|
-| Ionic + Angular | ⭐⭐⭐⭐            | Aplicações híbridas, integração com APIs |
-| PWA             | ⭐⭐⭐             | Web apps instaláveis, offline-ready |
-
----
-
-### 🛠️ Outros Conhecimentos
-
-| Ferramenta / Prática              | Experiência |
-|-----------------------------------|-------------|
-| Git / Git Flow                    | ⭐⭐⭐⭐⭐       |
-| Swagger / Postman / Insomnia      | ⭐⭐⭐⭐⭐       |
-| Metodologias Ágeis (Scrum)        | ⭐⭐⭐⭐    |
-| CI/CD                             | ⭐⭐⭐         |
-| Segurança Web (XSS, CSRF, SQL Injection) | ⭐⭐⭐⭐ |
-| Testes (PHPUnit, Jasmine, Karma) | ⭐⭐⭐ |
+- **Backend:** PHP · Laravel · Symfony · APIs RESTful · JWT · Redis · MySQL · PostgreSQL
+- **Frontend:** JavaScript (ES6+) · Angular · React · HTML5/CSS3 · Tailwind
+- **Mobile:** Ionic + Angular
+- **Práticas & Ferramentas:** Docker · Git/GitFlow · CI/CD · Testes (PHPUnit) · Scrum
 
 ---
 
